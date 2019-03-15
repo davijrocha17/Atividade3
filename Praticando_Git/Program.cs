@@ -10,6 +10,9 @@ namespace Praticando_Git
     {
         static void Main(string[] args)
         {
+            string c1, c2, c3, c4, c5;
+
+
             Console.WriteLine(" Primeira alteração");
             Console.WriteLine(" Segunda alteração");
             Console.WriteLine(" Terceira alteração");
