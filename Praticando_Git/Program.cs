@@ -15,6 +15,10 @@ namespace Praticando_Git
             {
 
             }
+            while (true)
+            {
+
+            }
 
             Console.WriteLine(" Primeira alteração");
             Console.WriteLine(" Segunda alteração");
