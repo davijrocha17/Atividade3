@@ -17,6 +17,10 @@ namespace Praticando_Git
             }
             while (true)
             {
+                break;
+            }
+            for(int i = 0;i<10; i++)
+            {
 
             }
 
