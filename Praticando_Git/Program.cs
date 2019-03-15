@@ -14,6 +14,7 @@ namespace Praticando_Git
             Console.WriteLine(" Segunda alteração");
             Console.WriteLine(" Terceira alteração");
             Console.WriteLine(" Quarta alteração");
+            Console.WriteLine(" Quinta alteração");
         }
     }
 }
