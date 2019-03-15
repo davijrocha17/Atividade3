@@ -11,6 +11,7 @@ namespace Praticando_Git
         static void Main(string[] args)
         {
             Console.WriteLine(" Primeira alteração");
+            Console.WriteLine(" Segunda alteração");
         }
     }
 }
